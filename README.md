@@ -1,0 +1,2 @@
+# yakulbot
+Yakul was created in late 2018 - early 2019 originally as a self bot that soon, due to limitations and Discord updating their ToS, progressed over the period of a few months into a bot. The bot is in no way currently functioning due to changes within the Discord.py API. I made this not only to show my progress with Python3+ but to also show what can be doen with patience and a little bit of studying.
